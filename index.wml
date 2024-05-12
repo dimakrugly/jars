@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.3//EN" "http://www.wapforum.org/DTD/wml13.dtd">
+<wml>
+    <card id="card1" title="Пример WAP-сайта">
+        <p align="center">
+            Добро пожаловать на мой WAP-сайт!
+        </p>
+        <anchor href="./MobyExplorer.jar">
+    Нажмите здесь для перехода
+</anchor>
+    </card>
+</wml>
